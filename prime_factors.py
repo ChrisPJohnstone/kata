@@ -11,4 +11,3 @@ if __name__ == "__main__":
     test_number: int = 15
     result: list[int] = get_prime_factors(test_number)
     print(result)
-
